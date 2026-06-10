@@ -1,3 +1,6 @@
+**> 适配MoyaProvider+Internal.swift中移除requestQueue的指定集成分支：requestQueue-adaptation**     
+   
+   
 <p align="center">
   <img height="160" src="web/logo_github.png" />
 </p>
