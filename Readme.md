@@ -6,4 +6,12 @@
 
 **>当前分支从tag：15.0.0创建，适配了MoyaProvider+Internal.swift中移除requestQueue的单独集成，不能从其他分支合并代码！**
    
+##Cocoapods集成   
+`  #https://github.com/Eason-Saber/MSport-Moya
+  pod 'Moya',
+      :git => 'https://github.com/Eason-Saber/MSport-Moya.git',
+      :branch => 'requestQueue-adaptation'`
+
+##SPM集成
+<img height="260" src="web/PROJECT_SPM.png" />
 
